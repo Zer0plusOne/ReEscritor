@@ -15,4 +15,8 @@ ReEscritor, con su brillo malicioso en los ojos y su código malicioso en la man
 ReEscritor, viendo una oportunidad única, se coló en la cabeza del adolescente a través de un cable Ethernet retorcido que colgaba de su computadora. Al hacerlo, le otorgó al joven una habilidad sorprendente: la capacidad de entender lo que decían los llamados "giris" (geeks) en StackOverflow, el rincón más oscuro y críptico de la web.
 
 El adolescente, ahora con el conocimiento de los gurús de la programación, comenzó a maquinar un plan para crear un ransomware que atacaría exclusivamente sistemas Linux, en un intento de vengar a su nuevo compañero espiritual, el ReEscritor.
+
+
+
+
 ![LeMEME](https://github.com/Zer0plusOne/ReEscritor/assets/82466341/ed0a4dbf-fc29-4815-bfaf-a744992ab01c)
